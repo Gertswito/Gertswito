@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://raw.githubusercontent.com/Gertswito/Gertswito/main/SaberGIF.gif" />
+  <img height="325" src="https://raw.githubusercontent.com/Gertswito/Gertswito/main/SaberGIF.gif" />
 </div>
 
 ###
